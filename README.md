@@ -1,29 +1,51 @@
-# Hi, I'm Faisal 👋
+# Hi, I'm Faisal Hassan 👋
 
-Backend / platform engineer at **[Tracxn](https://tracxn.com)** in Bengaluru. I work on auth, APIs, and developer tooling — and I like turning everyday workflows into reliable systems.
+**Software Engineer** at **[Tracxn](https://tracxn.com)** · Bangalore, India
 
-**Currently building:** [VaultPilot](https://github.com/Faisal-hn/vaultpilot) — an MCP server that lets Cursor/Claude capture and search notes in Obsidian while you code.
+I build backend systems that stay reliable when traffic and complexity grow — focused on **authentication**, **payments**, and **event-driven infrastructure**.
 
-## What I care about
-- **Auth & APIs** — OAuth2, Spring Security, service design
-- **Backend systems** — Java, Spring Boot, Redis, Node
-- **AI tooling** — MCP, FastMCP, agent workflows for engineers
+> OAuth2/OIDC · multi-gateway billing · high-availability data systems · usually Java, Spring Boot, Redis, Kafka, and MySQL.
 
-## Featured work
+## Experience
+
+**Software Engineer · Tracxn** — Nov 2024 – Present  
+Auth, payments, and HA databases — SSO onboarding ~25% smoother, payment errors down ~98%, checkout **15s → 2s**.
+
+- Centralized **OAuth2** authorization (Java 17, Spring Authorization Server) with encrypted tokens across microservices
+- Enterprise **SSO** with **12+** IdPs (Google, Microsoft, Okta, Entra ID, …) over OIDC & SAML
+- Configurable login: password, email OTP, 2FA, **WebAuthn** passkeys, enterprise SSO
+- **Stripe + Razorpay** payments with automated reconciliation; **Percona XtraDB** + ProxySQL (~99.9% availability)
+- Event-driven **Zoho** invoicing over **Kafka**
+
+**Software Engineer Intern · Buyume** — Mar 2023 – Oct 2024  
+CRM & mobile **REST APIs** (Node.js, Express, MongoDB) at scale — ~30% faster responses, ~20% better retention via engagement scoring.
+
+## Featured projects
 
 | Project | What it is |
 |---------|------------|
-| [**vaultpilot**](https://github.com/Faisal-hn/vaultpilot) | Obsidian vault MCP for Cursor/Claude — capture, search, daily notes, bug sessions |
-| [**CustomFacadeAuthorizationServer**](https://github.com/Faisal-hn/CustomFacadeAuthorizationServer) | Spring Authorization Server with custom facade patterns |
+| [**CustomFacadeAuthorizationServer**](https://github.com/Faisal-hn/CustomFacadeAuthorizationServer) | Spring Authorization Server + custom facade patterns for OAuth2 |
 | [**Spring-Security-Demo**](https://github.com/Faisal-hn/Spring-Security-Demo) | Hands-on Spring Security authn/authz demos |
-| [**Redis-Implementation**](https://github.com/Faisal-hn/Redis-Implementation) | Redis-inspired concepts implemented in Java |
-| [**chat-app**](https://github.com/Faisal-hn/chat-app) | Real-time chat with Node.js & Socket.io |
-| [**placement-cell**](https://github.com/Faisal-hn/placement-cell) | Campus placement portal |
+| [**Redis-Implementation**](https://github.com/Faisal-hn/Redis-Implementation) | Redis-inspired data-store concepts in Java |
+| [**olx-clone**](https://github.com/Faisal-hn/olx-clone) | Full-stack classifieds marketplace (MarketPlaceX) — React, Node, MongoDB |
+| [**XFlix_**](https://github.com/Faisal-hn/XFlix_) | Video hosting & streaming — React, Node, cloud deploy |
+| [**vaultpilot**](https://github.com/Faisal-hn/vaultpilot) | Obsidian vault MCP for Cursor/Claude (exploring FastMCP) |
+
+## Stack
+
+`Java` `JavaScript` `SQL` · `Spring Boot` `Spring Security` `Spring Authorization Server` `Node.js` `Express`  
+`MySQL` `Percona XtraDB` `Redis` `MongoDB` `ProxySQL` · `Kafka` · `OAuth2` `OIDC` `SAML` `WebAuthn` `JWT`
+
+## Education
+
+**B.Tech Software Engineering** — Shri Mata Vaishno Devi University (2019–2023) · CGPA 7.65
 
 ## Links
-- LinkedIn: [in/faisal51](https://www.linkedin.com/in/faisal51)
-- LeetCode: [Faisal_](https://leetcode.com/u/Faisal_/)
-- GitHub: [Faisal-hn](https://github.com/Faisal-hn)
+
+- Portfolio: [profile-omega-gilt.vercel.app](https://profile-omega-gilt.vercel.app)
+- LinkedIn: [in/faisal51](https://www.linkedin.com/in/faisal51/)
+- LeetCode: [Faisal_](https://leetcode.com/u/Faisal_/) · 1700+ contest rating
+- Email: [faisal.hassan1831@gmail.com](mailto:faisal.hassan1831@gmail.com)
 
 ---
-*Open to conversations about backend systems, auth, and AI-assisted engineering workflows.*
+*Open to backend roles and interesting systems problems — happy to talk.*
