@@ -1,6 +1,6 @@
 # Hi, I'm Faisal
 
-Backend engineer at **[Tracxn](https://tracxn.com)** in Bengaluru.
+Software engineer at **[Tracxn](https://tracxn.com)** in Bengaluru.
 
 I work on auth, APIs, and payments — mostly Java, Spring, Redis, Kafka, and MySQL.
 
